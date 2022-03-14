@@ -162,3 +162,17 @@ https://github.com/nvm-sh/nvm
 nvm install 16
 nvm use 16
 ```
+
+### Chrome - website browser
+
+> Useful shortcuts:
+> 
+> `command + t` - new tab
+> 
+> `command + w` - close tab
+> 
+> `command + q` - exit chrome
+> 
+> `commnnd + 1,2,3,4...i` - switch to tab `i`
+
+https://www.google.com/intl/pl_pl/chrome/
