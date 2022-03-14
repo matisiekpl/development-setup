@@ -52,7 +52,7 @@ https://handbrake.fr/
 <img width="1091" alt="image" src="https://user-images.githubusercontent.com/21008961/158256386-05d4698a-8fa9-4c6a-8dab-29d47fb45f1c.png">
 
 ### Alfred
-Blazing fast spotlight alternative with many index features (checkout `main.alfredpreferences` for importing config)
+Blazing fast spotlight alternative with many index features (checkout `main.alfredpreferences.zip` for importing config)
 
 <img width="755" alt="image" src="https://user-images.githubusercontent.com/21008961/158256959-60e255a3-7c13-47fb-8a4b-e5b77c32d064.png">
 
