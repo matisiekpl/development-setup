@@ -51,4 +51,22 @@ Encoder for h264, h265. Useful for trimming videos or reencoding the codec. Can 
 https://handbrake.fr/
 <img width="1091" alt="image" src="https://user-images.githubusercontent.com/21008961/158256386-05d4698a-8fa9-4c6a-8dab-29d47fb45f1c.png">
 
+### Alfred
+Blazing fast spotlight alternative with many index features (checkout `main.alfredpreferences` for importing config)
+
+<img width="755" alt="image" src="https://user-images.githubusercontent.com/21008961/158256959-60e255a3-7c13-47fb-8a4b-e5b77c32d064.png">
+
+Fallback searches can:
+- search on YouTube
+- search on Allegro
+- calculate derivative
+- calculate integral
+- evaluate expression in Wolfram
+- check person details in AGH SkOS
+- search for song lyrics in Genius
+
+Activation is using:
+
+
+<img width="394" alt="image" src="https://user-images.githubusercontent.com/21008961/158257351-b27680b3-9a82-4551-8d21-c99842d8ccb3.png">
 
