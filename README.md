@@ -147,3 +147,18 @@ ffmpeg -i input.mp4 -c:v libx264 -crf 18 -c:a copy output.mp4
 ffmpeg -ss 00:01:00 -to 00:02:00 -i input.mp4 -c copy output.mp4
 
 ```
+
+### Homebrew
+Package manager
+
+https://brew.sh/index_pl
+
+### NVM - Node Version Manager
+Easily switch Node.js versions
+
+https://github.com/nvm-sh/nvm
+
+```bash
+nvm install 16
+nvm use 16
+```
