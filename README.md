@@ -45,3 +45,10 @@ Math toolkit for visualising things, especially useful in learning for exams
 https://www.geogebra.org/download?lang=pl
 <img width="1792" alt="image" src="https://user-images.githubusercontent.com/21008961/158256197-ed52960c-dd18-4528-a46c-582113882d5a.png">
 
+### HandBrake
+Encoder for h264, h265. Useful for trimming videos or reencoding the codec. Can also rip DVDs
+
+https://handbrake.fr/
+<img width="1091" alt="image" src="https://user-images.githubusercontent.com/21008961/158256386-05d4698a-8fa9-4c6a-8dab-29d47fb45f1c.png">
+
+
