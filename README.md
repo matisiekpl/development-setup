@@ -13,12 +13,16 @@
 
 ### Karabiner Elements
 Used for mapping keys, especially for polish accent characters (swapes right_option and right_command). Checkout file `karabiner.json`
+
+https://karabiner-elements.pqrs.org/
 <img width="1112" alt="image" src="https://user-images.githubusercontent.com/21008961/158254630-f96ffe88-54aa-430b-bce7-81b5540e0b18.png">
 
 
 ### Terminal
 Terminal Emulator: iTerm2
 Shell: ohmyzsh, `robbyrussell` theme
+
+https://iterm2.com/
 <img width="922" alt="image" src="https://user-images.githubusercontent.com/21008961/158258113-f72a0e19-fb3f-4a6a-ac21-1b77b115215a.png">
 
 Useful aliases:
