@@ -14,3 +14,16 @@
 ### Karabiner Elements
 Used for mapping keys, especially for polish accent characters (swapes right_option and right_command). Checkout file `karabiner.json`
 <img width="1112" alt="image" src="https://user-images.githubusercontent.com/21008961/158254630-f96ffe88-54aa-430b-bce7-81b5540e0b18.png">
+
+## Tiles
+Snaps windows to corners.
+
+> Useful shortcuts
+> 
+> `option + command + left/right` - moves window to half of screen
+> 
+> `option + command + f` - fullscreen window
+
+https://freemacsoft.net/tiles/
+<img width="949" alt="image" src="https://user-images.githubusercontent.com/21008961/158254909-68ce4581-0225-410c-a033-58e6e4e5e81b.png">
+
