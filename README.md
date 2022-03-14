@@ -1,4 +1,4 @@
-# Development setup
+# Development setup 💻
 
 | Setup             | March 2022                    |
 |-------------------|-------------------------------|
