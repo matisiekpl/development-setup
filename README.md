@@ -88,3 +88,36 @@ Covid19 statistics:
 ```bash
 curl covid19.mateuszwozniak.com
 ```
+Tool `env2kube.sh` - tool for converting .env files to Kubernetes deployment env definitions
+```python
+#!/usr/bin/env python3
+import sys
+
+filename = sys.argv[1]
+
+with open(filename) as file:
+    lines = file.readlines()
+    lines = [line.rstrip() for line in lines]
+    for line in lines:
+        if len(line) > 0:
+            parts = line.split('=')
+            if len(parts) > 1:
+                if not parts[1].startswith('='):
+                    parts[1] = '"' + parts[1] + '"'
+                    print('- name: ' + parts[0])
+                    print('  value: ' + parts[1])
+```
+Sample output:
+```bash
+$ env2kube .env
+- name: APP_NAME
+  value: "Laravel"
+- name: APP_ENV
+  value: "local"
+- name: APP_KEY
+  value: "base64:abcdefgh+iklkabdjsbdj"
+- name: APP_DEBUG
+  value: "true"
+- name: APP_URL
+  value: "http://localhost"
+```
