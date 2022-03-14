@@ -32,3 +32,11 @@ Download manager, speeds up HTTP(s) downloads using concurrency
 
 https://motrix.app/
 <img width="934" alt="image" src="https://user-images.githubusercontent.com/21008961/158255300-6a009cfc-4183-46ef-b860-ccee9a52ba8c.png">
+
+### VLC
+Video player supporting many codecs
+
+https://www.videolan.org/vlc/download-macosx.pl.html
+<img width="884" alt="image" src="https://user-images.githubusercontent.com/21008961/158255532-29b9b4a5-213a-4d27-94ef-4ec37999abd1.png">
+
+
