@@ -121,3 +121,29 @@ $ env2kube .env
 - name: APP_URL
   value: "http://localhost"
 ```
+
+### FFMPEG
+Awesome tool for working on video codecs
+
+```bash
+brew install ffmpeg
+```
+<img width="1090" alt="image" src="https://user-images.githubusercontent.com/21008961/158259441-be3dbc14-0ef0-4016-84a0-3e8becc108b7.png">
+Some tips:
+
+
+```bash
+
+# Extract audio from mp4
+ffmpeg -i input.mp4 -vn -acodec copy output-audio.aac
+
+# Mute audio
+ffmpeg -i input.mp4 -c copy -an output.mp4
+
+# Reencode video with given CRF
+ffmpeg -i input.mp4 -c:v libx264 -crf 18 -c:a copy output.mp4
+
+# Trim video
+ffmpeg -ss 00:01:00 -to 00:02:00 -i input.mp4 -c copy output.mp4
+
+```
