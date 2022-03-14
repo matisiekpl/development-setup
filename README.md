@@ -39,4 +39,9 @@ Video player supporting many codecs
 https://www.videolan.org/vlc/download-macosx.pl.html
 <img width="884" alt="image" src="https://user-images.githubusercontent.com/21008961/158255532-29b9b4a5-213a-4d27-94ef-4ec37999abd1.png">
 
+### GeoGebra Calculator Suite
+Math toolkit for visualising things, especially useful in learning for exams
+
+https://www.geogebra.org/download?lang=pl
+<img width="1792" alt="image" src="https://user-images.githubusercontent.com/21008961/158256197-ed52960c-dd18-4528-a46c-582113882d5a.png">
 
