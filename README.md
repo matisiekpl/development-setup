@@ -70,3 +70,21 @@ Activation is using:
 
 <img width="394" alt="image" src="https://user-images.githubusercontent.com/21008961/158257351-b27680b3-9a82-4551-8d21-c99842d8ccb3.png">
 
+### Terminal
+Terminal Emulator: iTerm2
+Shell: ohmyzsh, `robbyrussell` theme
+<img width="922" alt="image" src="https://user-images.githubusercontent.com/21008961/158258113-f72a0e19-fb3f-4a6a-ac21-1b77b115215a.png">
+
+Useful aliases:
+```bash
+alias yt2mp3="youtube-dl --extract-audio --audio-format mp3"
+alias yt2mp4="youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4'"
+
+alias curltime="curl -w \"@$HOME/.curl-format.txt\" -o /dev/null -s "
+alias curltime="curl -w \"@$HOME/.curl-format.txt\" -o /dev/null -s "
+alias msq="mysql -u root -p -h 127.0.0.1"
+```
+Covid19 statistics:
+```bash
+curl covid19.mateuszwozniak.com
+```
